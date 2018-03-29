@@ -1,1 +1,1 @@
-# leranGit
+thi is free software
