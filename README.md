@@ -1,2 +1,3 @@
 thi is free software
-Creatin a new branch is quick & simple
+
+create a baranch is quickly and simple
